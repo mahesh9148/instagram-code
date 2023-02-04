@@ -1,0 +1,31 @@
+Answers
+
+1.Git,cvs,svn
+
+2.
+
+3.it is used for the software development and automation.
+
+4.it is neither an application nor a tool
+
+5.deveops is a set of prctice and tools designed for the shortthe life cycle of software
+
+6.working directory,staging area,repository
+
+7.independent line development 
+
+8.git stash
+
+9.git clone and copy the url and paste it.
+
+10.git add -A
+
+11.build automation tool
+
+12.online service portal
+
+13.git status
+
+14.kubernets
+
+15.
